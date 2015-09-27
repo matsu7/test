@@ -1,0 +1,6 @@
+.DS_Store
+.sass-cache
+node_modules
+Gruntfile.js
+package.json
+config.rb
